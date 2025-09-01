@@ -13,5 +13,3 @@ def my_buddy_is():
     return my name is a string
     '''
     return "reemaalhadban"
-
-pass  # YOUR CODE HERE
